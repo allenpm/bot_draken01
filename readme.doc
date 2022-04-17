@@ -1,0 +1,7 @@
+El archivo config no lo subi porque el mismo tendria el token del bot. Al igual que el env.
+
+    "token": "tu token",
+    "clientId": "-",
+    "guildId": "-" 
+ En caso de que vaya en .env debes ponerlos sin "".
+
